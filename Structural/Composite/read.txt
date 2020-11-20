@@ -1,0 +1,6 @@
+Khi chúng ta cần tạo một cấu trúc theo cách mà các đối tượng trong cấu trúc phải được xử lý theo cùng một cách,
+chúng ta có thể áp dụng mẫu thiết kế tổng hợp.
+
+Hãy hiểu nó bằng một ví dụ thực tế - Sơ đồ là một cấu trúc bao gồm các Đối tượng như Hình tròn, Đường thẳng, Hình tam giác
+, v.v. Khi chúng ta tô màu cho bản vẽ (ví dụ như Màu đỏ), màu tương tự cũng được áp dụng cho các Đối tượng trong đang vẽ.
+Ở đây bản vẽ được tạo thành từ các phần khác nhau và chúng đều có các thao tác giống nhau.

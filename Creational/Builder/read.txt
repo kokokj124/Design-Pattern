@@ -1,0 +1,8 @@
+Builder pattern được giới thiệu để giải quyết một số vấn đề với các mẫu thiết kế
+Factory và Abstract Factory khi Object chứa nhiều thuộc tính.
+
+- Quá nhiều đối số để truyền từ chương trình máy khách sang lớp Factory có thể dễ xảy ra lỗi vì hầu hết thời gian,
+loại đối số giống nhau và từ phía máy khách khó có thể duy trì thứ tự của đối số.
+- Một số tham số có thể là tùy chọn nhưng trong mẫu Factory,
+chúng tôi buộc phải gửi tất cả các tham số và các tham số tùy chọn cần gửi dưới dạng NULL.
+- Nếu đối tượng nặng và việc tạo ra nó phức tạp, thì tất cả sự phức tạp đó sẽ là một phần của các lớp Factory gây nhầm lẫn.

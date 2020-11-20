@@ -1,0 +1,3 @@
+Mẫu thiết kế nhà máy được sử dụng khi chúng ta có một lớp cha với nhiều lớp con và dựa trên đầu vào,
+chúng ta cần trả về một trong các lớp con.
+Mẫu này thực hiện trách nhiệm khởi tạo một lớp từ chương trình khách hàng đến lớp nhà máy.

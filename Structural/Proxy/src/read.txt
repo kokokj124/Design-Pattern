@@ -1,0 +1,6 @@
+Bản thân định nghĩa này rất rõ ràng và mẫu thiết kế proxy được sử dụng khi chúng ta muốn
+ cung cấp quyền truy cập có kiểm soát của một chức năng.
+
+Giả sử chúng ta có một lớp có thể chạy một số lệnh trên hệ thống.Bây giờ nếu chúng tôi đang sử dụng nó thì không sao
+nhưng nếu chúng tôi muốn cung cấp chương trình này cho ứng dụng khách, nó có thể gặp sự cố nghiêm trọng
+vì chương trình khách có thể ra lệnh xóa một số tệp hệ thống hoặc thay đổi một số cài đặt mà bạn không muốn.

@@ -1,0 +1,8 @@
+Nếu bạn đã quen với factory design pattern in java , bạn sẽ nhận thấy rằng chúng ta có một lớp only Factory.
+Factory class này trả về các subclass khác nhau dựa trên đầu vào được cung cấp và factory class sử dụng lệnh
+if-else hoặc switch để đạt được điều này.
+
+Trong mẫu Abstract Factory, chúng ta loại bỏ khối if-else và có một factory class cho mỗi sub class.
+Sau đó, một lớp Abstract Factory sẽ trả về subclass dựa trên factory class đầu vào.
+Thoạt đầu, nó có vẻ khó hiểu nhưng khi bạn nhìn thấy cách triển khai, bạn sẽ thực sự dễ dàng nắm bắt và
+hiểu được sự khác biệt nhỏ giữa mẫu Factory và Abstract Factory.

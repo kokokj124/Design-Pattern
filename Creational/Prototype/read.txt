@@ -1,0 +1,5 @@
+Prototype design pattern được sử dụng khi việc tạo Object là một công việc tốn kém và đòi hỏi nhiều thời gian
+và tài nguyên và bạn đã có object tượng tương tự.
+
+Prototype design pattern cung cấp cơ chế sao chép đối tượng gốc sang đối tượng mới và sau đó sửa đổi nó theo nhu cầu của
+chúng ta. Prototype design pattern sử clone java để sao chép đối tượng.

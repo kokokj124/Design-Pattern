@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creational/AbstractFactory/ABbstractFactory.iml" filepath="$PROJECT_DIR$/Creational/AbstractFactory/ABbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Adapter/AbstractFactory.iml" filepath="$PROJECT_DIR$/Creational/Adapter/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Adapter/AbstractFactory1.iml" filepath="$PROJECT_DIR$/Creational/Adapter/AbstractFactory1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Creational/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Builder/Builder.iml" filepath="$PROJECT_DIR$/Creational/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Factory/Factory.iml" filepath="$PROJECT_DIR$/Creational/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Creational/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+    </modules>
+  </component>
+</project>
